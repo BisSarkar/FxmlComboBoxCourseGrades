@@ -14,7 +14,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author DELL
+ * @author BISWAJIT SARKAR
  */
 public class CourseMain extends Application {
  
